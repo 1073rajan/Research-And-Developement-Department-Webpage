@@ -11,7 +11,7 @@
 - Setup Instructions (INSTALL VS CODE)
 
 
-## About
+## Abouts
 The university"s vision is to be a university with a national and international reputation for excellence, innovation and creativity.
 The mission of the university is to pursue a research, technology and knowledge transfer strategy which identifies and supports key wealth creating sectors;
 promotes intellectual property and develops facilities for innovation and growth.
